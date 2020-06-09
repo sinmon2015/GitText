@@ -14,5 +14,9 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG,"master2");
         Log.i(TAG,"master2");
         Log.i(TAG,"master2");
+        Log.i(TAG,"master2");
+        Log.i(TAG,"master2");
+        Log.i(TAG,"master2");
+        Log.i(TAG,"master2");
     }
 }
